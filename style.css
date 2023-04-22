@@ -1337,7 +1337,7 @@ footer .copyright{
   }
 }
 
-@media (max-width: 230px){
+@media (max-width: 500px){
   /* Home page */
   .section-p1{
     padding: 20px;
